@@ -2,7 +2,7 @@
 
 Obs: todas essas soluções foram feitas no curso e pelo autor do curso.
 
-![Untitled](Soluc%CC%A7o%CC%83es%20em%20POO%20cf0f99d587a44aceaa6f4b1d7d7a0e07/Untitled.png)
+![Untitled](Soluções%20em%20POO%20cf0f99d587a44aceaa6f4b1d7d7a0e07/Untitled.png)
 
 Aqui foi realizado um solução sem POO
 
@@ -108,7 +108,7 @@ namespace PrimeiroProjeto {
 }
 ```
 
-![Untitled](Soluc%CC%A7o%CC%83es%20em%20POO%20cf0f99d587a44aceaa6f4b1d7d7a0e07/Untitled%201.png)
+![Untitled](Soluções%20em%20POO%20cf0f99d587a44aceaa6f4b1d7d7a0e07/Untitled%201.png)
 
 Codigo principal:
 
